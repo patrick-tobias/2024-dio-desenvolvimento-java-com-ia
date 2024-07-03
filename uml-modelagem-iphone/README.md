@@ -4,8 +4,9 @@
 <img src="./img/iphone_uml.svg">
 
 ## POO - Descrição do Desafio
+Encontre o desafio no endereço:
 ```bash
-https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
+https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md
 ```` 
 
 ### Modelagem e Diagramação de um Componente iPhone
