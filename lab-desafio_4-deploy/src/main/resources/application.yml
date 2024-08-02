@@ -1,0 +1,8 @@
+jwt:
+  expiracao: 30
+
+spring:
+  application:
+    name: deploy
+  profiles:
+    active: prod
