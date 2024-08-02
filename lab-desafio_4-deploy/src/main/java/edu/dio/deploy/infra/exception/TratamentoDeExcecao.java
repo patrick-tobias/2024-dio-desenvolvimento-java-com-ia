@@ -1,5 +1,7 @@
 package edu.dio.deploy.infra.exception;
 
+import java.util.stream.Collectors;
+
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
@@ -29,7 +31,7 @@ public class TratamentoDeExcecao {
         		.body(erros
         				.stream()
         				.map(DadosErroValidacao::new)
-        				.toList());
+        				.collect(Collectors.toList()));
     }
 	
 	@ExceptionHandler(HttpMessageNotReadableException.class)
