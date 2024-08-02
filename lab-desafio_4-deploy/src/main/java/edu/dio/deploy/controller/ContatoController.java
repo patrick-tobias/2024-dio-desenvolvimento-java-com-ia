@@ -2,7 +2,6 @@ package edu.dio.deploy.controller;
 
 import java.net.URI;
 import java.util.Collection;
-import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -46,7 +45,7 @@ public class ContatoController {
 			service.listarContatos()
 				.stream()
 				.map(ContatoListarRecord::new)
-				.collect(Collectors.toList());
+				.toList();
 		return ResponseEntity.ok(contatos);
 	}
 	
