@@ -85,12 +85,6 @@ Encontre mais sobre o desafio no endereço:
     https://github.com/digitalinnovationone/santander-dev-week-2023-api
 ```
 
-## Links Relacionados
-
-Conheça mais sobre a [DIO](https://www.dio.me/) e o bootcamp [GFT - Desenvolvimento Java com IA](https://web.dio.me/track/coding-future-gft-desenvolvimento-java-com-ia).
-
-Conheça também o [Meu Perfil](https://web.dio.me/users/patrick_tobias?tab=achievements) na plataforma.
-
 ## Considerações Finais
 
 É possível que a aplicação já não esteja no ar no momento em que você visualize esse repositório.
