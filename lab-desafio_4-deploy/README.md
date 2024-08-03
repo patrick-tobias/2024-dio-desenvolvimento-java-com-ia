@@ -93,3 +93,34 @@ Conheça também o [Meu Perfil](https://web.dio.me/users/patrick_tobias?tab=achi
 
 ## Considerações Finais
 
+É possível que a aplicação já não esteja no ar no momento em que você visualize esse repositório.
+
+Por isso, capturei algumas imagens para ilustrar o funcionamento da API online, utilizando railway. </br>
+URL: `https://gft-java-ia-2024-production.up.railway.app`
+
+1) status do projeto em railway.app
+<img src="./img/1..png"/>
+
+2) Swagger: `https://gft-java-ia-2024-production.up.railway.app/swagger-ui/index.html`
+<img src="./img/2..png"/>
+
+3) POST em /usuarios
+<img src="./img/3..png"/>
+
+4) POST em /login
+<img src="./img/4..png"/>
+
+5) Configuração de Token
+<img src="./img/5..png"/>
+
+6) POST em /contatos
+<img src="./img/6..png"/>
+
+7) GET em /contatos
+<img src="./img/7..png"/>
+
+8) SELECT em USUARIOS no railway, persistência de dados
+<img src="./img/8..png"/>
+
+9) SELECT em CONTATOS no railway, persistência de dados
+<img src="./img/9..png"/>
